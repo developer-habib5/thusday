@@ -1,0 +1,59 @@
+.main-div{
+    width: 400px;
+    margin: auto;
+    box-shadow: 0px 0px 4px grey;
+    border-radius: 10px;
+}
+
+.hadding-part{
+    
+background: #719d1a;
+    
+padding: 10px;
+    
+text-align: center;
+}
+.hadding-part,h1{
+
+margin: auto;
+
+text-transform: capitalize;
+}
+
+.from-part{
+
+padding: 10px;
+
+text-align: center;
+}
+
+.from-part from{
+
+}
+
+.from-part from input{
+
+/* width: 100px; */
+
+width: 340px;
+
+background: transparent;
+
+color: black;
+
+padding: 10px;
+
+margin: 5px;
+
+border-radius: 13px;
+}
+
+.from-part p{
+
+
+}
+
+.from-part a,from a{
+
+color: #76a715;
+}

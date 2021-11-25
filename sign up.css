@@ -1,0 +1,42 @@
+.habib {
+    width: 400px;
+    margin: auto;
+    box-shadow: 0px 0px 4px grey;
+    border-radius: 10px;
+}
+
+.habib-3{
+
+    background: #719d1a;
+    
+padding: 10px;
+    
+text-align: center;
+
+}
+.habib-3,h1{
+
+    margin: auto;
+    border-radius: 15px;
+
+}
+.habib2{
+    padding: 10px;
+    text-align: center;
+}
+
+.habib2 from input{
+
+    width: 340px;
+    background: transparent;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 15px;
+}
+
+.habib2 from button{
+    width: 100px;
+    color: #070803;
+    background-color: #719d1a;
+    border-radius: 10px;
+}
